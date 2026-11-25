@@ -134,3 +134,4 @@ Proprietary software. All rights reserved by MackenzieCampbelAndross.
 
 <!-- commit-log: refactor(conditions): optimize stat boundary clamping using math helpers -->
 <!-- commit-log: perf(engine): optimize history breadcrumb array appending -->
+<!-- commit-log: fix(reader): preserve scroll position on choice selection -->
